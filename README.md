@@ -8,6 +8,7 @@ This repository contains an analysis of sleep and dream data using Python. The p
 - Correlation analysis between sleep hours, dream metrics, and overall day ratings
 - Data visualization using Seaborn and Matplotlib
 - Machine learning with Linear Regression, Random Forest Regressor, and Support Vector Regressor
+- Visuals using plotly *note* these will not show on github, plotly library required
 
 ## Getting Started
 Clone the repository:
