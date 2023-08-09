@@ -1,6 +1,6 @@
 # Sleep and Dream Analysis
 
-Introduction
+## Introduction
 This repository contains an analysis of sleep and dream data using Python. The project explores the relationships between sleep hours, dream metrics, and overall day ratings. The analysis involves basic statistics, data visualization, and machine learning using various regression models. The goal is to predict overall day ratings based on sleep hours and dream metrics.
 
 Features
