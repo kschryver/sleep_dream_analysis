@@ -45,3 +45,6 @@ Dependencies
 - Seaborn
 - Matplotlib
 - Scikit-Learn
+
+![plot1](https://github.com/kschryver/sleep_dream_analysis/blob/main/prediction_plot.png?raw=true)
+![plot1](https://github.com/kschryver/sleep_dream_analysis/blob/main/sleephr_vs_dreamamount.png?raw=true)
