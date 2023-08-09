@@ -4,11 +4,11 @@
 This repository contains an analysis of sleep and dream data using Python. The project explores the relationships between sleep hours, dream metrics, and overall day ratings. The analysis involves basic statistics, data visualization, and machine learning using various regression models. The goal is to predict overall day ratings based on sleep hours and dream metrics.
 
 ## Features
-Data preprocessing and basic statistics
-Correlation analysis between sleep hours, dream metrics, and overall day ratings
-Data visualization using Seaborn and Matplotlib
-Machine learning with Linear Regression, Random Forest Regressor, and Support Vector Regressor
-README template for project documentation and explanation
+- Data preprocessing and basic statistics
+- Correlation analysis between sleep hours, dream metrics, and overall day ratings
+- Data visualization using Seaborn and Matplotlib
+- Machine learning with Linear Regression, Random Forest Regressor, and Support Vector Regressor
+
 ## Getting Started
 Clone the repository:
 
